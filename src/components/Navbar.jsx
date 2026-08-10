@@ -11,13 +11,13 @@ export default function Navbar() {
               <img
                 src="/Ufungamano round logo.png"
                 alt="Christian Student Leadership Centre"
-                className="w-8 h-8 sm:w-12 sm:h-12"
+                className="w-10 h-10 sm:w-16 sm:h-16"
               />
             </div>
             <span className="text-lg sm:text-xl md:text-2xl font-medium">
               <span className="text-white">Christian Student</span>{' '}
-              <span className="text-orange-400">Leadership Centre</span>
-              <span className="text-orange-200 block text-center text-sm sm:text-base italic">Ufungamano House</span>
+              <span className="text-white">Leadership Centre</span>
+              <span className="text-orange-400 block text-center text-sm sm:text-base ">Ufungamano House</span>
             </span>
           </div>
 
